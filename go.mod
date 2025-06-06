@@ -1,4 +1,4 @@
-module github.com/smartcontractkit/libocr
+module github.com/cedric-cordenier/libocr
 
 go 1.22
 
